@@ -113,7 +113,7 @@
         <div markdown="1">
             <img src="https://github.com/NaraeP/Oracle-Project_education-center-management-system/assets/140796673/402b08e8-3710-49d1-bde4-8c7fa34c8772" alt="요구분석서">
             <img src="https://github.com/NaraeP/Oracle-Project_education-center-management-system/assets/140796673/16e78f2a-3a63-4562-a026-afc2b8b96500" alt="순서도">
-            <img src="https://github.com/NaraeP/Oracle-Project_education-center-management-system/assets/140796673/b88ac014-7be9-45bb-9853-6d9fc7efd5cd" alt="데이터베이스 설계(ERD)">
+            <img src="https://github.com/NaraeP/Oracle-Project_education-center-management-system/assets/140796673/861118a7-62de-4a6b-84f7-9ab41d13c6d0" alt="데이터베이스 설계(ERD)">
             <img src="https://github.com/NaraeP/Oracle-Project_education-center-management-system/assets/140796673/921f1413-3008-4271-ab7b-c165e0f85925" alt="테이블 정의서(DDL)">
             <img src="https://github.com/NaraeP/Oracle-Project_education-center-management-system/assets/140796673/57f51c31-0844-4220-9461-1d7b3ad612ba" alt="데이터 정의서(DML)">
             <img src="https://github.com/NaraeP/Oracle-Project_education-center-management-system/assets/140796673/8ba92c92-e480-4d39-a3e8-88ec37d7c120" alt="ANSI-SQL Script">
