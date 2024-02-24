@@ -95,31 +95,35 @@
 
 ### 💻주요 구현 기능
 1. 관리자 기능
-    - B02-01. 교육생 정보 등록 및 명단 조회
-    - B02-02. 기간별 교육생 상담일지 관리
-    - B08-01. 교육생 면접 및 선발 관리
-    - B11-01. 우수 교육생 조회
+    - 교육생 정보 등록 및 명단 조회
+    - 기간별 교육생 상담일지 관리(전체조회)
+      <img src="https://github.com/NaraeP/Oracle-Project_education-center-management-system/assets/140796673/6ee4a49b-6902-43db-85c9-fac8e213cbcc" alt="관리자 기능_B02-02(전체조회)">
+    - 기간별 교육생 상담일지 관리(특정조회)
+      <img src="https://github.com/NaraeP/Oracle-Project_education-center-management-system/assets/140796673/bf041b71-4fac-4f2b-8e05-d34b873d2f55" alt="관리자 기능_B02-02(특정조회)">
+    - 교육생 면접 및 선발 관리
+    - 우수 교육생 등록
+      <img src="https://github.com/NaraeP/Oracle-Project_education-center-management-system/assets/140796673/8bbe2fb5-dca8-43e9-ad1d-e94dfda3e993" alt="관리자 기능_B11-01(등록)">
+      <img src="https://github.com/NaraeP/Oracle-Project_education-center-management-system/assets/140796673/c683e60e-486f-4256-b93d-d470407cc84e" alt="관리자 기능_B11-01(등록-기존재)">
+    - 우수 교육생 조회
+      <img src="https://github.com/NaraeP/Oracle-Project_education-center-management-system/assets/140796673/660fb703-cee4-467b-9518-3a439b256eab" alt="관리자 기능_B11-01(조회-성적우수)">
+      <img src="https://github.com/NaraeP/Oracle-Project_education-center-management-system/assets/140796673/ce4e2414-b4f6-4f74-9726-9cb0a1333b7e" alt="관리자 기능_B11-01(조회-개근)">
 2. 교사 기능
-    - C02-01. 배점 입출력
-    - C10-01. 우수 교육생 조회
+    - 배점 입출력(조회)
+      <img src="https://github.com/NaraeP/Oracle-Project_education-center-management-system/assets/140796673/db9eba71-c00f-467b-846f-c725fd1705bc" alt="교사 기능_C02-01(조회)">
+    - 우수 교육생 조회
+      <img src="https://github.com/NaraeP/Oracle-Project_education-center-management-system/assets/140796673/785df75c-13cb-474d-aefb-cb9579b65eb8" alt="교사 기능_C10-01(조회-성적우수)">
 3. 교육생 기능
-    - D08-01. 우수 교육생 수상
-
+    - 우수 교육생 수상
+      <img src="https://github.com/NaraeP/Oracle-Project_education-center-management-system/assets/140796673/9c33dfae-cca0-4c0a-8f18-0eb47930db9c" alt="교육생 기능_D08-01(내역O)">
+      <img src="https://github.com/NaraeP/Oracle-Project_education-center-management-system/assets/140796673/f8151898-7963-4ac7-b197-a0450ae3468e" alt="교육생 기능_D08-01(내역X)">
+<!--
 <details>
     <summary>주요 구현 기능 미리보기 📷</summary>
         <div markdown="1">
-            <img src="https://github.com/NaraeP/Oracle-Project_education-center-management-system/assets/140796673/6ee4a49b-6902-43db-85c9-fac8e213cbcc" alt="관리자 기능_B02-02(전체조회)">
-            <img src="https://github.com/NaraeP/Oracle-Project_education-center-management-system/assets/140796673/bf041b71-4fac-4f2b-8e05-d34b873d2f55" alt="관리자 기능_B02-02(특정조회)">
-            <img src="https://github.com/NaraeP/Oracle-Project_education-center-management-system/assets/140796673/8bbe2fb5-dca8-43e9-ad1d-e94dfda3e993" alt="관리자 기능_B11-01(등록)">
-            <img src="https://github.com/NaraeP/Oracle-Project_education-center-management-system/assets/140796673/c683e60e-486f-4256-b93d-d470407cc84e" alt="관리자 기능_B11-01(등록-기존재)">
-            <img src="https://github.com/NaraeP/Oracle-Project_education-center-management-system/assets/140796673/660fb703-cee4-467b-9518-3a439b256eab" alt="관리자 기능_B11-01(조회-성적우수)">
-            <img src="https://github.com/NaraeP/Oracle-Project_education-center-management-system/assets/140796673/ce4e2414-b4f6-4f74-9726-9cb0a1333b7e" alt="관리자 기능_B11-01(조회-개근)">
-            <img src="https://github.com/NaraeP/Oracle-Project_education-center-management-system/assets/140796673/db9eba71-c00f-467b-846f-c725fd1705bc" alt="교사 기능_C02-01(조회)">
-            <img src="https://github.com/NaraeP/Oracle-Project_education-center-management-system/assets/140796673/785df75c-13cb-474d-aefb-cb9579b65eb8" alt="교사 기능_C10-01(조회-성적우수)">
-            <img src="https://github.com/NaraeP/Oracle-Project_education-center-management-system/assets/140796673/9c33dfae-cca0-4c0a-8f18-0eb47930db9c" alt="교육생 기능_D08-01(내역O)">
-            <img src="https://github.com/NaraeP/Oracle-Project_education-center-management-system/assets/140796673/f8151898-7963-4ac7-b197-a0450ae3468e" alt="교육생 기능_D08-01(내역X)">
+            <img src="" alt="관리자 기능_">
         </div>
 </details>
+-->
 
 <br>
 
